@@ -1,0 +1,61 @@
+.crsl h6{
+    color: #FD511A;
+}
+.crsl h1{
+    font-weight: bolder;
+}
+.crsl p{
+    margin-left: 0%;
+    font-weight: 200;
+    color: #6C6B6B;
+}
+.any{
+    color: #21B573;
+}
+.get-started{
+    color: #ffff;
+    background-color: #21B573;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 20px;
+}
+#get-started{
+    color: #ffff;
+    background-color: #21B573;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 10px gray 20px;
+}
+.crd{
+    padding: 20px 100px;
+}
+#foot-part small{
+    color: #6C6B6B;
+}
+.card-footer{
+    border: none;
+}
+.test h2{
+    font-weight: bolder;
+}
+.man{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+
+.end11{
+    background-color: #282531;
+    color: #ffff;
+    padding: 50px 50px;
+}
+footer{
+    margin-top: 40px;
+}
